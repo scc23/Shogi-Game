@@ -9,29 +9,29 @@ Includes:
 
 Shogi Menu:
 
-![solarized palette](https://github.com/scc23/Shogi-Game/tree/master/screenshots/shogiMenu.png)
+![solarized palette](https://github.com/scc23/Shogi-Game/blob/master/screenshots/shogiMenu.png)
 
 
 Shogi Options:
 
-![solarized palette](https://github.com/scc23/Shogi-Game/tree/master/screenshots/shogiOptions.png)
+![solarized palette](https://github.com/scc23/Shogi-Game/blob/master/screenshots/shogiOptions.png)
 
 
-Standard Shogi
+Standard Shogi:
 
-![solarized palette](https://github.com/scc23/Shogi-Game/tree/master/screenshots/standardShogi.png)
-
-
-Minishogi
-
-![solarized palette](https://github.com/scc23/Shogi-Game/tree/master/screenshots/miniShogi.png)
+![solarized palette](https://github.com/scc23/Shogi-Game/blob/master/screenshots/standardShogi.png)
 
 
-Chu Shogi
+Minishogi:
 
-![solarized palette](https://github.com/scc23/Shogi-Game/tree/master/screenshots/chuShogi.png)
+![solarized palette](https://github.com/scc23/Shogi-Game/blob/master/screenshots/miniShogi.png)
 
 
-Tenjiku Shogi
+Chu Shogi:
 
-![solarized palette](https://github.com/scc23/Shogi-Game/tree/master/screenshots/tenjikuShogi.png)
+![solarized palette](https://github.com/scc23/Shogi-Game/blob/master/screenshots/chuShogi.png)
+
+
+Tenjiku Shogi:
+
+![solarized palette](https://github.com/scc23/Shogi-Game/blob/master/screenshots/tenjikuShogi.png)
