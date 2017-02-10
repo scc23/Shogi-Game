@@ -3,6 +3,8 @@ Shogi (japanese chess game) written in Julia.
 
 Includes:
 - GUI
+- Time Settings
+- Roulette
 - Multiple variants of the game (standard shogi, minishogi, chu shogi, tenjiku shogi)
 - Multiple AI difficulties
 - networking
