@@ -7,9 +7,13 @@ Includes:
 - Multiple AI difficulties
 - networking
 
+
+
 Shogi Menu:
 
 ![solarized palette](https://github.com/scc23/Shogi-Game/blob/master/screenshots/shogiMenu.png)
+
+
 
 
 Shogi Options:
@@ -17,9 +21,13 @@ Shogi Options:
 ![solarized palette](https://github.com/scc23/Shogi-Game/blob/master/screenshots/shogiOptions.png)
 
 
+
+
 Standard Shogi:
 
 ![solarized palette](https://github.com/scc23/Shogi-Game/blob/master/screenshots/standardShogi.png)
+
+
 
 
 Minishogi:
@@ -27,9 +35,13 @@ Minishogi:
 ![solarized palette](https://github.com/scc23/Shogi-Game/blob/master/screenshots/miniShogi.png)
 
 
+
+
 Chu Shogi:
 
 ![solarized palette](https://github.com/scc23/Shogi-Game/blob/master/screenshots/chuShogi.png)
+
+
 
 
 Tenjiku Shogi:
